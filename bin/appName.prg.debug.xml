@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/kent/garmin_projects/makefile_demo/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="1" lineNum="8" parent="globals/makefile_demoView" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="1" lineNum="9" parent="globals/makefile_demoView" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="2" lineNum="13" parent="globals/makefile_demoView" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="2" lineNum="14" parent="globals/makefile_demoView" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="3" lineNum="20" parent="globals/makefile_demoView" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="4" lineNum="24" parent="globals/makefile_demoView" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="4" lineNum="26" parent="globals/makefile_demoView" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="4" lineNum="27" parent="globals/makefile_demoView" pc="268435547" symbol="onUpdate"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="4" lineNum="28" parent="globals/makefile_demoView" pc="268435621" symbol="onUpdate"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="4" lineNum="29" parent="globals/makefile_demoView" pc="268435645" symbol="onUpdate"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="4" lineNum="32" parent="globals/makefile_demoView" pc="268435659" symbol="onUpdate"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="5" lineNum="38" parent="globals/makefile_demoView" pc="268435680" symbol="onHide"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="6" lineNum="42" parent="globals/makefile_demoView" pc="268435685" symbol="onExitSleep"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="7" lineNum="46" parent="globals/makefile_demoView" pc="268435690" symbol="onEnterSleep"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="8" lineNum="6" parent="globals/makefile_demoView" pc="268436042" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoView.mc" id="8" lineNum="6" parent="globals/makefile_demoView" pc="268436042" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="10" lineNum="7" parent="globals/makefile_demoApp" pc="268435695" symbol="initialize"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="10" lineNum="8" parent="globals/makefile_demoApp" pc="268435699" symbol="initialize"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="11" lineNum="12" parent="globals/makefile_demoApp" pc="268435718" symbol="onStart"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="12" lineNum="16" parent="globals/makefile_demoApp" pc="268435723" symbol="onStop"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="13" lineNum="20" parent="globals/makefile_demoApp" pc="268435728" symbol="getInitialView"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="13" lineNum="21" parent="globals/makefile_demoApp" pc="268435732" symbol="getInitialView"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="14" lineNum="5" parent="globals/makefile_demoApp" pc="268436023" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="14" lineNum="5" parent="globals/makefile_demoApp" pc="268436023" symbol="&lt;init&gt;"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="15" lineNum="26" parent="globals" pc="268435770" symbol="getApp"/>
+<entry filename="/Users/kent/garmin_projects/makefile_demo/source/makefile_demoApp.mc" id="15" lineNum="27" parent="globals" pc="268435782" symbol="getApp"/>
+<entry filename="Rez" id="17" lineNum="2" parent="globals/Rez/Drawables" pc="268436017" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="18" lineNum="6" parent="globals/Rez/Fonts" pc="268436019" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="19" lineNum="8" parent="globals/Rez/JsonData" pc="268436021" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="20" lineNum="17" parent="globals/Rez/Layouts" pc="268435799" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="19" parent="globals/Rez/Layouts" pc="268435811" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="21" parent="globals/Rez/Layouts" pc="268435974" symbol="WatchFace"/>
+<entry filename="Rez" id="21" lineNum="10" parent="globals/Rez/Layouts" pc="268436020" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="22" lineNum="26" parent="globals/Rez/Menus" pc="268436018" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="23" lineNum="28" parent="globals/Rez/Strings" pc="268436022" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268435993" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268435993" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="9" object="true" symbol="makefile_demoView"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="10" object="true" symbol="makefile_demoApp"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435520" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435678" name="view" stackId="4" startPc="268435530"/>
+<entry endPc="268435678" name="timeString" stackId="3" startPc="268435530"/>
+<entry endPc="268435678" name="clockTime" stackId="2" startPc="268435530"/>
+<entry arg="true" endPc="268435679" name="dc" stackId="1" startPc="268435526"/>
+<entry arg="true" endPc="268435722" name="state" stackId="1" startPc="268435718"/>
+<entry arg="true" endPc="268435727" name="state" stackId="1" startPc="268435723"/>
+<entry endPc="268435990" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268435811"/>
+<entry arg="true" endPc="268435991" name="dc" stackId="1" startPc="268435799"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="237" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="276" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="307" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="338" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="377" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="408" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/makefile_demoApp" offset="447" parentId="globals" symbolId="makefile_demoApp" type="class"/>
+<dataEntry label="globals/makefile_demoView" offset="518" parentId="globals" symbolId="makefile_demoView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435478" name="initialize" parent="makefile_demoView" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435520" name="onLayout" parent="makefile_demoView" startPc="268435479">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435525" name="onShow" parent="makefile_demoView" startPc="268435521">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435679" name="onUpdate" parent="makefile_demoView" startPc="268435526">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435684" name="onHide" parent="makefile_demoView" startPc="268435680">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435689" name="onExitSleep" parent="makefile_demoView" startPc="268435685">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435694" name="onEnterSleep" parent="makefile_demoView" startPc="268435690">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436060" name="&lt;init&gt;" parent="makefile_demoView" startPc="268436042">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435717" name="initialize" parent="makefile_demoApp" startPc="268435695">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435722" name="onStart" parent="makefile_demoApp" startPc="268435718">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435727" name="onStop" parent="makefile_demoApp" startPc="268435723">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435769" name="getInitialView" parent="makefile_demoApp" startPc="268435728">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436041" name="&lt;init&gt;" parent="makefile_demoApp" startPc="268436023">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435798" name="getApp" startPc="268435770">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436017" name="&lt;init&gt;" parent="Drawables" startPc="268436017">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436019" name="&lt;init&gt;" parent="Fonts" startPc="268436019">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436021" name="&lt;init&gt;" parent="JsonData" startPc="268436021">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435991" name="WatchFace" parent="Layouts" startPc="268435799">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436020" name="&lt;init&gt;" parent="Layouts" startPc="268436020">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436018" name="&lt;init&gt;" parent="Menus" startPc="268436018">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436022" name="&lt;init&gt;" parent="Strings" startPc="268436022">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436016" name="&lt;init&gt;" parent="Rez" startPc="268435993">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
