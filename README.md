@@ -2,7 +2,7 @@
 
 ## Why do I make this repo
 
-Garmin VSCODE has bugs to start simulator [Check this thread](https://forums.garmin.com/developer/connect-iq/f/discussion/276200/vscode-extension-failed-to-launch-the-app-timeout/1502579#1502579)
+Garmin VSCODE plugin has bugs to start simulator [Check this thread](https://forums.garmin.com/developer/connect-iq/f/discussion/276200/vscode-extension-failed-to-launch-the-app-timeout/1502579#1502579)
 
 So it is a workaround to use a makefile.
 
