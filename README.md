@@ -48,6 +48,8 @@ Use this command to find the variable you used for version.
 version = `grep 'var v =' source/DCCApp.mc | sed 's/.*var v = "\([^"]*\).*/\1/'`
 ```
 
+Then add version for your package command.
+
 ```bash
 package:
 	@$(JAVA_HOME)/bin/java \
